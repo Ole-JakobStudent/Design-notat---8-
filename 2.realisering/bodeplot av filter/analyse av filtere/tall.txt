@@ -1,0 +1,12 @@
+senter frekvens ca.2981Hz
+
+-3dB  ved 6.13570011033269
+
+frekvenserestimert til å være
+
+øye mål da de nøyaktige verdiene ikke ble 
+ca. 2918Hz for det lavere kryssningspunktet.
+ca. 3045Hz for det høyere kryssningspunktet
+
+betyr bånd bredden er lik ca 130Hz
+
